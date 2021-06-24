@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently building **My first react app**
 
-- 📫 How to reach me **email@fabiangottesmann.com**
+- 📫 How to reach me **f.gottesmann@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
