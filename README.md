@@ -1,5 +1,5 @@
-<h1 align="center">Hi 😎, I'm Fabian Gottesmann</h1>
-<h3 align="center">I am a junior frontend web developer with a strong will, flexible approach to solutions and fun with new challenges.</h3>
+<h1 align="center">Fabian Gottesmann</h1>
+<h3 align="center">I am a frontend web developer with a strong will, flexible approach to solutions and fun with new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fgottesmann&label=Profile%20views&color=0e75b6&style=flat" alt="fgottesmann" /> </p>
 
